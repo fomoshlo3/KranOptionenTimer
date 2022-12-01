@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKranOptionenTimer", "UKranOptionenTimer\UKranOptionenTimer.csproj", "{D3C33F21-273C-4068-BE6A-B1580065F25D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C33F21-273C-4068-BE6A-B1580065F25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C33F21-273C-4068-BE6A-B1580065F25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C33F21-273C-4068-BE6A-B1580065F25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C33F21-273C-4068-BE6A-B1580065F25D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792D12BC-26E1-4AA9-9B29-BCF2D17FB2F8}
+	EndGlobalSection
+EndGlobal
